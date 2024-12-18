@@ -1,0 +1,1 @@
+Informacja odnośnie tego repozytorium
