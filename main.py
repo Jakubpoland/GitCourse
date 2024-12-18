@@ -1,3 +1,3 @@
 print('Hello')
-x = 20
+x = input()
 print(x)
